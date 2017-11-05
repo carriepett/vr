@@ -1,9 +1,3 @@
-# Carrie's First Markdown File
+# Carrie's Data reader
 
-Here's a bulleted lists:
-* item one
-* item two
-* item three
-
-vr
-====
+test.py reads from data.csv file and prints rows 
